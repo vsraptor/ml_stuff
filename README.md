@@ -17,7 +17,8 @@ Linux wc command implemented in Perl.
 
 ## pattern_lang.py
 
-Mini language, parsers, recursion, lambda, yield ..... in Python
+Mini language, parsers, recursion, lambda, yield ..... in Python.
+
 Check http://ifni.co/articles/programming/recursion, for tutorial.
 
 
