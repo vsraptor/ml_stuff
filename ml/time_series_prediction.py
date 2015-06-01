@@ -39,10 +39,6 @@ class TSP():
 
 	def zap_m(self): self.m = np.zeros((self.history_len, self.buffer_len))
 
-	@staticmethod
-	def autocorr(x, t=1):
-		return np.corrcoef(np.array([x[0:len(x)-t], x[t:len(x)]]))
-
 	@staticmethod #!fixme pass by ref
 	def fifo_insert(buff,value):
 		buff = np.roll(buff,1)
