@@ -21,6 +21,10 @@ Mini language, parsers, recursion, lambda, yield ..... in Python.
 
 Check http://ifni.co/articles/programming/recursion, for tutorial.
 
+## scrubber.pl
+
+Simple example of how to scrub html pages in Perl, using Mojo and DOM parsing.
+You can find the tutorial here : http://ifni.co/articles/programming/web_scrubber
 
 ## /ml
 
