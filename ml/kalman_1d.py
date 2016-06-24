@@ -57,3 +57,4 @@ def test_kalman(ticks=1000,x0=0,P=0.5,R=1,Q=0.5):
 
 	return k
 
+#if __name__ == '__main__' : test_kalman()
